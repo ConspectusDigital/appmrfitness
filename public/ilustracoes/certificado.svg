@@ -1,0 +1,24 @@
+<svg width="480" height="320" viewBox="0 0 480 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="8" y="8" width="464" height="304" rx="24" fill="#FFD600" stroke="#181818" stroke-width="4"/>
+  <rect x="40" y="40" width="400" height="240" rx="16" fill="#fff" stroke="#181818" stroke-width="2"/>
+  <text x="240" y="100" text-anchor="middle" fill="#181818" font-size="28" font-weight="bold" font-family="Arial, sans-serif">
+    Certificado de Conclusão
+  </text>
+  <text x="240" y="140" text-anchor="middle" fill="#181818" font-size="18" font-family="Arial, sans-serif">
+    Parabéns, [NOME]!
+  </text>
+  <text x="240" y="180" text-anchor="middle" fill="#FFD600" font-size="20" font-weight="bold" font-family="Arial, sans-serif">
+    Você completou a Jornada Mr. Fitness!
+  </text>
+  <text x="240" y="215" text-anchor="middle" fill="#181818" font-size="14" font-family="Arial, sans-serif">
+    Sucesso e força na sua jornada de empreendedorismo fitness!
+  </text>
+  <circle cx="80" cy="260" r="25" fill="#FFD600" stroke="#181818" stroke-width="3"/>
+  <circle cx="80" cy="260" r="12" fill="#fff" stroke="#181818" stroke-width="2"/>
+  <rect x="65" y="280" width="30" height="16" rx="8" fill="#181818"/>
+  <rect x="65" y="278" width="30" height="6" rx="3" fill="#FFD600"/>
+  <circle cx="400" cy="260" r="25" fill="#FFD600" stroke="#181818" stroke-width="3"/>
+  <circle cx="400" cy="260" r="12" fill="#fff" stroke="#181818" stroke-width="2"/>
+  <rect x="385" y="280" width="30" height="16" rx="8" fill="#181818"/>
+  <rect x="385" y="278" width="30" height="6" rx="3" fill="#FFD600"/>
+</svg>
