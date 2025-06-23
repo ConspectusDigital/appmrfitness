@@ -1,0 +1,13 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="90" cy="90" r="80" fill="#fff" stroke="#FFD600" stroke-width="3"/>
+  <path d="M90,90 L90,10 A80,80 0 0,1 170,100 Z" fill="#FFD600"/>
+  <path d="M90,90 L170,100 A80,80 0 0,1 90,170 Z" fill="#FFB800"/>
+  <path d="M90,90 L90,170 A80,80 0 0,1 40,150 Z" fill="#FFE066"/>
+  <path d="M90,90 L40,150 A80,80 0 0,1 10,90 Z" fill="#181818"/>
+  <path d="M90,90 L10,90 A80,80 0 0,1 90,10 Z" fill="#BABABA"/>
+  <text x="125" y="30" fill="#181818" font-size="13" font-weight="bold">Documentos</text>
+  <text x="148" y="125" fill="#FFB800" font-size="13" font-weight="bold">Taxas</text>
+  <text x="90" y="175" fill="#181818" font-size="13" font-weight="bold">Honorários</text>
+  <text x="20" y="145" fill="#FFD600" font-size="13" font-weight="bold">Projetos</text>
+  <text x="10" y="65" fill="#BABABA" font-size="13" font-weight="bold">Outros</text>
+</svg>
