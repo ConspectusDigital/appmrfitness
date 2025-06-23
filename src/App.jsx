@@ -52,4 +52,28 @@ export default function App() {
   else if (aba === "conquistas") conteudo = <Conquistas />;
 
   return (
-    <div className="min-h-
+    <div className="min-h-screen bg-gray-50">
+      <div className="pb-20">{conteudo}</div>
+      {/* Menu fixo inferior */}
+      <nav className="fixed bottom-0 left-0 right-0 bg-white shadow-lg border-t flex justify-around py-2 z-10">
+        {abas.map((abaItem, idx) => (
+          <button
+            key={abaItem.key}
+            className={`flex flex-col items-center px-2 py-1 text-xs font-bold transition ${
+              aba === abaItem.key
+                ? "text-yellow-500"
+                : "text-gray-400 hover:text-yellow-500"
+            }`}
+            onClick={() => {
+              setAba(abaItem.key);
+              setEtapaAberta(null);
+            }}
+          >
+            {abaItem.icon}
+            {abaItem.label}
+          </button>
+        ))}
+      </nav>
+    </div>
+  );
+}
