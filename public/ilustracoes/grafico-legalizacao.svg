@@ -1,0 +1,11 @@
+<svg width="250" height="140" viewBox="0 0 250 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <ellipse cx="125" cy="70" rx="65" ry="65" fill="#FFF" stroke="#FFD600" stroke-width="3"/>
+  <path d="M125,70 L125,5 A65,65 0 0,1 200,110 Z" fill="#FFD600"/>
+  <path d="M125,70 L200,110 A65,65 0 0,1 90,133 Z" fill="#181818"/>
+  <path d="M125,70 L90,133 A65,65 0 0,1 61,90 Z" fill="#FFE066"/>
+  <path d="M125,70 L61,90 A65,65 0 0,1 125,5 Z" fill="#FFB800"/>
+  <text x="90" y="20" fill="#181818" font-size="13" font-weight="bold">AVCB</text>
+  <text x="180" y="80" fill="#FFD600" font-size="13" font-weight="bold">Taxas</text>
+  <text x="120" y="132" fill="#181818" font-size="13" font-weight="bold">Honorários</text>
+  <text x="40" y="100" fill="#FFB800" font-size="13" font-weight="bold">Projetos</text>
+</svg>
